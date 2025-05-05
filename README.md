@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shohruh!</h1>
+<h1 align="center">👋 Hi, I'm ShohruKh!</h1>
 <p align="center">Frontend Developer | Studying at SoftClub | I love React and beautiful UI ✨</p>
 
 ---
