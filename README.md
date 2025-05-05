@@ -1,14 +1,14 @@
-<h1 align="center">👋 Привет, я Шоҳрух!</h1>
-<p align="center">Frontend-разработчик | Учусь в SoftClub | Люблю React и красивый UI ✨</p>
+<h1 align="center">👋 Hi, I'm Shohruh!</h1>
+<p align="center">Frontend Developer | Studying at SoftClub | I love React and beautiful UI ✨</p>
 
 ---
 
-### 🧑‍💻 Немного обо мне
+### 🧑‍💻 A little about me
 
-- 🚀 Учусь современному веб-разработке (React, Next.js, Tailwind)
-- 💼 Работаю над проектами типа интернет-магазина, чатов и фотогалерей
-- 🧠 Сейчас активно прокачиваю: `Next.js`, `TypeScript`, `Server Actions`
-- 🎯 Цель — стать сильным fullstack-разработчиком
+- 🚀 Learning modern web development (React, Next.js, Tailwind)
+- 💼 Working on projects like e-commerce sites, chats, and photo galleries
+- 🧠 Currently focused on improving: `Next.js`, `TypeScript`, `Server Actions`
+- 🎯 Goal — to become a strong fullstack developer
 
 ---
 
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN_UI-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
