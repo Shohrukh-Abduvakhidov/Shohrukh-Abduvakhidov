@@ -34,18 +34,9 @@
 
 ---
 
-### 📈 Моя статистика на GitHub
+### 📬📞 contact me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📬 Связаться со мной
-
-- Telegram: [@SHOHRUKH_011]([https://t.me/your_username](https://t.me/SHOHRUKH_011))
+- Telegram: [@SHOHRUKH_011](https://t.me/SHOHRUKH_011)
 - GitHub: [@MY GITHUB](https://github.com/Shohrukh-Abduvakhidov)
 
 ---
