@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Анимированная шапка с переливающимся градиентом -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Shohrukh%20Abduvakhidov&fontSize=40&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Tajikistan&descAlign=50&descAlignY=55&descSize=15&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=250&section=header&text=Shohrukh%20Abduvakhidov&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20Tajikistan&descAlign=50&descAlignY=55&descSize=15&animation=fadeIn" />
 
 <br/>
 <br/>
 
-<!-- Анимированный печатающийся текст -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=2E8B57&center=true&vCenter=true&width=500&lines=Always+learning+and+improving;Focused+on+React+and+Next.js" alt="Typing SVG" />
 
 <br/>
 <br/>
 
-<!-- Социальные сети -->
 <a href="https://t.me/SHOHRUKH_011"><img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://instagram.com/shoxa_011_"><img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/Shohrukh-Abduvakhidov"><img src="https://img.shields.io/github/followers/Shohrukh-Abduvakhidov?label=FOLLOWERS&style=for-the-badge&color=2E8B57&logo=github" alt="Followers"/></a>
@@ -20,7 +18,6 @@
 <br/>
 <br/>
 
-<!-- Карточка статистики Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shohrukh-Abduvakhidov&theme=dark&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" alt="GitHub Streak" />
 
 <br/>
@@ -57,8 +54,5 @@
 
 <br/>
 <br/>
-
-<!-- Счетчик просмотров профиля -->
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Shohrukh-Abduvakhidov&icon=2&color=0" /></a>
 
 </div>
