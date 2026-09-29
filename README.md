@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=282c34,61afef,c678dd&height=250&section=header&text=Shohrukh%20Abduvakhidov&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20Tajikistan&descAlign=50&descAlignY=55&descSize=15&animation=fadeIn&killcache=987654321" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:111827,70:312E81,100:2563EB&height=250&section=header&text=Shohrukh%20Abduvakhidov&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20Tajikistan&descAlign=50&descAlignY=55&descSize=15&descColor=C7D2FE&animation=fadeIn" />
 
 <br/>
 <br/>
