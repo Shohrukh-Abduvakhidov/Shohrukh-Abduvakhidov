@@ -18,7 +18,6 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shohrukh-Abduvakhidov&theme=dark&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" alt="GitHub Streak" />
 
 <br/>
 <br/>
@@ -36,14 +35,23 @@
 <br/>
 <br/>
 
+<img
+  src="https://streak-stats.demolab.com/?user=Shohrukh-Abduvakhidov&hide_border=true&border_radius=16&background=45,09090B,111827,1E1B4B&ring=6366F1&fire=818CF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=818CF8&sideLabels=A1A1AA&dates=71717A&stroke=312E81&card_width=600"
+  alt="GitHub Streak"
+/>
+
 </div>
 
-### 🧑‍💻 A little about me
-- 🚀 Learning modern web development (React, Next.js, Tailwind)
-- 💼 Working on projects like e-commerce sites, chats, and photo galleries
-- 🧠 Currently focused on improving: `Next.js`, `TypeScript`, `Server Actions`
-- 🎯 Goal — to become a strong fullstack developer
-- 🎓 Studying at SoftClub
+### 🧑‍💻 About Me
+
+- 💻 Full-stack Developer from Tajikistan
+- ⚛️ Building modern applications with `React`, `Next.js` and `TypeScript`
+- ⚙️ Developing backend systems with `Node.js`, `Express` and `PostgreSQL`
+- 🚀 From database design and REST APIs to frontend and production deployment
+- 🐧 Working with `Linux`, `Git`, `VPS` and modern development tools
+- 🎓 SoftClub Academy — Frontend Development (2024–2025)
+- 📚 Computer Science student at RTSU
+- 🔨 Currently building and improving real-world full-stack products
 
 <br/>
 
@@ -54,5 +62,10 @@
 
 <br/>
 <br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,45:111827,100:09090B&height=120&section=footer"
+/>
 
 </div>
